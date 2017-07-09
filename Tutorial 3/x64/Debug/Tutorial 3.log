@@ -1,0 +1,10 @@
+﻿  Tutorial 3.cpp
+  VisualDebugger.cpp
+  PhysicsEngine.cpp
+  Renderer.cpp
+  GLFontRenderer.cpp
+  Camera.cpp
+  Generating Code...
+  LINK : C:\Users\Dale Taylor\Desktop\PhysX Tutorials\x64\Debug\Tutorial 3.exe not found or not built by the last incremental link; performing full link
+  Tutorial 3.vcxproj -> C:\Users\Dale Taylor\Desktop\PhysX Tutorials\x64\Debug\Tutorial 3.exe
+  Tutorial 3.vcxproj -> C:\Users\Dale Taylor\Desktop\PhysX Tutorials\x64\Debug\Tutorial 3.pdb (Partial PDB)
